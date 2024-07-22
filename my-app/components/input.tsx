@@ -48,7 +48,7 @@ const Input: React.FC<InputProps> = ({
 			transform
 			-translate-y-3
 			scale-75
-			top-4
+			top-3
 			z-10
 			origin-[0]
 			left-6
